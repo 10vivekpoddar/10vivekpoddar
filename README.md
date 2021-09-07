@@ -4,10 +4,9 @@
 # Hi there 👋, I'm Vivek
 
 I am Vivek Poddar, from India. I am a 3rd year engineering student with a specialization in Electronics & Communication Engineering.
-- 🌱 I’m currently learning Java 
-- 🥅 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working on web development
+- 🥅 Goals: Contribute to Open Source projects
 - 😄 Pronouns: He/His 
-
 
 
 ### Connect with me:
@@ -16,14 +15,9 @@ I am Vivek Poddar, from India. I am a 3rd year engineering student with a specia
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/10_vivekpoddar)  
 
 
-
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<br>
-<br>
 
 | <a href="https://github.com/10vivekpoddar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10vivekpoddar" /></a> |<a href="https://github.com/10vivekpoddar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=10vivekpoddar&show_icons=true&include_all_commits=true" alt="Vivek Poddar's github stats" /></a> |
 | ------------- | ------------- |
