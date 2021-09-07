@@ -1,5 +1,3 @@
-Hi, I’m Vivek Poddar! 👋 
-
 ### Hi there 👋, Hi, I'm Vivek
 #### I am GitHub Readme Generator's creator
 I am Vivek Poddar, from India. I am a 3rd year engineering student with a specialization in Electronics & Communication Engineering.
