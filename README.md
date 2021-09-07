@@ -1,9 +1,19 @@
 Hi, I’m Vivek Poddar! 👋 
 
-- 🌱 I’m currently pursuing my bachelor's degree in Electronics & Communication Engineering ...
-- 👀 I’m interested in learning new technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, Hi, I'm Vivek
+#### I am GitHub Readme Generator's creator
+I am Vivek Poddar, from India. I am a 3rd year engineering student with a specialization in Electronics & Communication Engineering.
+
+Skills:  HTML / CSS
+
+- 🔭 I’m currently working on web development 
+- 🌱 I’m currently learning Java 
+- 👯 I’m looking to collaborate on projects 
+- 😄 Pronouns: He/His 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/10vivekpoddar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/10_vivekpoddar//)  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10vivekpoddar)](https://github.com/anuraghazra/github-readme-stats)
 
