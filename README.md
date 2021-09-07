@@ -1,6 +1,9 @@
 Hi, I’m Vivek Poddar! 👋 
 - I am a 3rd year undergrad student with specialization in Electronics & Communication Engineering.
 - 👀 I’m interested in learning new technology
+- 🌱 I’m currently pursuing my bachelor's degree in Electronics & Communication Engineering ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 
 <!---
