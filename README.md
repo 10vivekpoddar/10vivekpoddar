@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Vivek
+### Hi there 👋, I'm Vivek
 
 I am Vivek Poddar, from India. I am a 3rd year engineering student with a specialization in Electronics & Communication Engineering.
 
