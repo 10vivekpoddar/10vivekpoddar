@@ -3,16 +3,16 @@
 
 # Hi there 👋, I'm Vivek
 
-I am Vivek Poddar, from India. I am a 3rd year engineering student with a specialization in Electronics & Communication Engineering.
+I am Vivek Poddar, from India. I am a engineering student with a specialization in Electronics & Communication Engineering.
 - 🌱 I’m currently working on web development
 - 🥅 Goals: Contribute to Open Source projects
 - 😄 Pronouns: He/His 
 
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/10vivekpoddar/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/10_vivekpoddar/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/10_vivekpoddar)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)' alt='linkedin' height='40'>](https://www.linkedin.com/in/10vivekpoddar/)
+
+
 
 
 ### Languages and Tools:
