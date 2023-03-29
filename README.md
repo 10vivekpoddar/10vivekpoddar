@@ -1,24 +1,29 @@
 
-![Profile views](https://gpvc.arturio.dev/10vivekpoddar)
-
 # Hi there 👋, I'm Vivek
 
-I am Vivek Poddar, from India. I am a engineering student with a specialization in Electronics & Communication Engineering.
-- 🌱 I’m currently working on web development
+- 🌱 I’m currently a 4th year student
 - 🥅 Goals: Contribute to Open Source projects
 - 😄 Pronouns: He/His 
 
-### Connect with me:
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' >](https://www.linkedin.com/in/10vivekpoddar/)
+### 🌐 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:10.vivekpoddar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10vivekpoddar) 
 
-### Languages and Tools:
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+### 💻 Tech Stack:
+![](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
 
-
-| <a href="https://github.com/10vivekpoddar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10vivekpoddar" /></a> |<a href="https://github.com/10vivekpoddar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=10vivekpoddar&show_icons=true&include_all_commits=true" alt="Vivek Poddar's github stats" /></a> |
-| ------------- | ------------- |
 
 <!---
 10vivekpoddar/10vivekpoddar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=10vivekpoddar&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=10vivekpoddar&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=10vivekpoddar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=10vivekpoddar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
