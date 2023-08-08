@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Vivek
 
-- 🌱 I’m currently a 4th year student
+- 🌱 I’m a recent engineering graduate.
 - 🥅 Goals: Contribute to Open Source projects
 - 😄 Pronouns: He/His 
 
@@ -10,9 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10vivekpoddar) 
 
 ### 💻 Tech Stack:
-![](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=darkgreen)
-![](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
+![java](https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=darkgreen)
+![javascript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
 
 
 <!---
@@ -21,11 +21,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=10vivekpoddar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+![github-stat](https://github-readme-stats.vercel.app/api/top-langs/?username=10vivekpoddar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=10vivekpoddar&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=10vivekpoddar&theme=dark&hide_border=false)
 
 
-[![](https://visitcount.itsvg.in/api?id=10vivekpoddar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=10vivekpoddar&icon=0&color=0)
 
 
